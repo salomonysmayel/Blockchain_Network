@@ -27,7 +27,9 @@ The following image shows the set up of the network
 
 ### Launching node 1 into mining mode
 
-![supply_chain](/Images/node1_act.png)
+The enode code is used to launch the second node into mining mode
+
+![supply_chain](/Images/node1act.png)
 
 ### Launching node 2 into mining mode
 
