@@ -2,13 +2,13 @@
 
 ## Testnet Blockchain at ZBank
 
-This project consist on the creation of a blockchain network, with which at the end a transaction beteewn two accounts managed with MyCryto application is made. The following are the steps taken to achieve this process.
+This project consist on the creation of a blockchain network, with which at the end a transaction between two accounts managed with MyCryto application is made. The following are the steps taken to achieve this process.
 
 ### Network Creation
 
 The following image shows the creation of the network
 
-The network created was named "zbanknet", then the genesis was configurated from scratch, with proof of work, The two addreses 
+The network created was named "zbanknet", then the genesis was configured from scratch, with proof of work, The two addresses 
 used are:
 
 account1_homework: 0x01BFD4508CC26797Af84Ce05287a3DeC0671DEb8 
@@ -24,10 +24,27 @@ The following image shows the set up of the network
 ### Nodes initialization and activation into mining 
 
 ![supply_chain](/Images/nodes_creation.png)
+
+### Launching node 1 into mining mode
+
 ![supply_chain](/Images/node1_act.png)
+
+### Launching node 2 into mining mode
+
 ![supply_chain](/Images/node2_act.png)
+
+### Setting transfer between the two accounts:
+
 ![supply_chain](/Images/set_transf.png)
+
+### Confirming transfer between the two accounts:
+
 ![supply_chain](/Images/conf_transf.png)
+
+### Confirmation of successful transaction between the two accounts:
+
 ![supply_chain](/Images/trans.png)
+
+To use the zbanknet we can activate nodes and go to My Crypto to keep transferring between accounts 
 
 
