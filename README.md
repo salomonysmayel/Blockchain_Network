@@ -37,6 +37,9 @@ The enode code is used to launch the second node into mining mode
 
 ### Setting transfer between the two accounts:
 
+To send a transfer we launch MyCryto app and select the network created "zbanknet"
+
+![supply_chain](/Images/set_transf.png)
 ![supply_chain](/Images/set_transf.png)
 
 ### Confirming transfer between the two accounts:
