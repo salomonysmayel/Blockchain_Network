@@ -23,7 +23,7 @@ The following image shows the set up of the network
 
 ### Nodes initialization and activation into mining 
 
-![supply_chain](/Images/nodes_create.png)
+![supply_chain](/Images/nodes_creation.png)
 ![supply_chain](/Images/node1_act.png)
 ![supply_chain](/Images/node2_act.png)
 ![supply_chain](/Images/set_transf.png)
