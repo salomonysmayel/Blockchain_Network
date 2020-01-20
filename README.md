@@ -20,3 +20,7 @@ The chain ID 988
 The following image shows the set up of the network
 
 ![supply_chain](/Images/network_create.png)
+
+### Nodes initialization and activation into mining 
+
+
